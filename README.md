@@ -1,2 +1,5 @@
-# algorithm-analysis-semester-project
-BLM3021 Algorithm Analysis - Semester Project - Community Detection in C
+## Algorithm Analysis Semester Project
+
+# BLM3021 
+
+- This project is about Community Detection in C
